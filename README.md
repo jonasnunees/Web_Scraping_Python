@@ -1,6 +1,12 @@
 <h1>Web Scraping com Python</h1>
 <h3>Pegando informações do perfil do GitHub</h3>
 <p><strong>É preciso instalar as bibliotecas requests e bs4</strong></p>
+<pre>
+  <code>
+    pip install requests
+    pip install bs4
+  </code>
+</pre>
 <p>Neste exemplo conseguimos o seguinte retorno:</p>
 <ol>
   <li>Username</li>
